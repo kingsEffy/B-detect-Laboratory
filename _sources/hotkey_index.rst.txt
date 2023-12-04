@@ -1,0 +1,25 @@
+.. _hotkey_index:
+
+Hotkey Index
+===============
+
+Aside from using the mouse to interact with the menu bar, tool bar, and widgets options including slider bar of Burst ID, spin box of Peak ID, the curation GUI also supports hotkeys for faster curation. The hotkeys are listed in the table below.
+
+.. table:: Hotkey Index
+   :widths: 10 50
+
+   +----------------+----------------------------------------------------------------------------------+
+   | Hotkey         | Description                                                                      |
+   +================+==================================================================================+
+   | T              | Load sorted or unsorted data first, then click 'Load Candidates' in the Option  |
+   |                | Menu to get list of bursts candidates.                                          |
+   +----------------+----------------------------------------------------------------------------------+
+   | G              | Start curation by moving Burst Slider or press 'G' to start curating the first   |
+   |                | burst event.                                                                    |
+   +----------------+----------------------------------------------------------------------------------+
+   | A              | Add spikes with square labels                                                   |
+   +----------------+----------------------------------------------------------------------------------+
+   | S              | Add spike with star label                                                       |
+   +----------------+----------------------------------------------------------------------------------+
+   | D              | Delete the selected spike peak                                                  |
+   +----------------+----------------------------------------------------------------------------------+

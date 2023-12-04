@@ -1,0 +1,32 @@
+.. Bdetectlab documentation master file, created by
+   sphinx-quickstart on Sat Nov 25 10:38:48 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Burst Detection Laboratory!
+======================================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Overview:
+
+   getting_started
+
+   installation 
+
+   tutorial
+
+   hotkey_index
+
+   search
+
+
+
+Bdetectlab's documentation
+===========================
+
+* :ref:`Getting Started <getting_started>`  
+* :ref:`Installation <installation>`
+* :ref:`Tutorial <tutorial>`
+* :ref:`Hotkey Index <hotkey_index>`
+* :ref:`search <search>`
